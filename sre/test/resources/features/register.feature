@@ -5,7 +5,7 @@ Feature: Registration functionlity
   Scenario: User create account with mandatory fields
     Given User open to register account page
     When User provides infomation into the below fields
-    |firstName|md|
+    |Md rafiquel Islam
     |lastName|islam|
     |telephone|5125019660|
     |password|Raita9660|
