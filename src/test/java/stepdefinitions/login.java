@@ -21,7 +21,7 @@ import pages.LoginPage;
 import utils.CommonUtils;
 
 
-    public class login {
+    public class login First Method {
     	
 	WebDriver driver;     //.... add + 5
 	private LoginPage loginpage;
